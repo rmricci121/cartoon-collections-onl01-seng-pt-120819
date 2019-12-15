@@ -7,7 +7,7 @@ end
 
 def summon_captain_planet(planateer_calls)
   index = 0 
-  planateer_calls.map {|calls| "#{calls.capitalize}!"
+  planateer_calls.map {|calls| "#{calls.capitalize}!"}
 end
 
 def long_planeteer_calls# code an argument here
