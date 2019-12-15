@@ -7,7 +7,7 @@ end
 
 def summon_captain_planet(planateer_calls)
   index = 0 
-  planateer_calls.
+  planateer_calls.map {|
 end
 
 def long_planeteer_calls# code an argument here
