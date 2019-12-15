@@ -22,4 +22,5 @@ def find_the_cheese(cheeses)
   cheeses.find do |cheese|
     cheese == "chedder" || cheese = "gouda" || cheese = "camembert"
   end
+  cheese
 end
